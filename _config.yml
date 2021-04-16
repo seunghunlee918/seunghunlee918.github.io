@@ -71,7 +71,7 @@ footer:
     
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "my" # others: "air", "
+minimal_mistakes_skin: "contrast" # others: "air", "
 plugins:
   - jekyll-feed
   - jekyll-include-cache

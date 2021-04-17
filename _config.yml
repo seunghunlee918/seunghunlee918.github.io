@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Seung-hun Lee (이승헌)"
   avatar           : "/images/Seung-hun Lee_2.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate in Economics, \n Columbia University"
+  bio              : "Ph.D. Candidate in Economics, Columbia University"
   email            :
   links:
     - label: "Email: sl4436@columbia.edu"
@@ -248,11 +248,11 @@ include: ["_pages"]
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: pages
+      path: "/"
+      type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   - scope:
       path: "_pages"
       type: posts

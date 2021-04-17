@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Seung-hun Lee (이승헌)"
   avatar           : "/images/Seung-hun Lee_2.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. candidate in Economics, Columbia University"
+  bio              : "Ph.D. candidate in Economics, | Columbia University"
   location         : "New York, NY"
   email            :
   links:

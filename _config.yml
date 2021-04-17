@@ -39,7 +39,7 @@ email: sl4436@columbia.edu
 description: 'Ph.D. candidate in Economics, Columbia University'
 url: "https://seunghunlee.github.io"
 #baseurl: "/home" # the subpath of your site, e.g. /blog
-repository: #"seunghunlee918/seunghunlee918.github.io"
+repository: "seunghunlee918/seunghunlee918.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: "Seung-hun Lee (이승헌)"

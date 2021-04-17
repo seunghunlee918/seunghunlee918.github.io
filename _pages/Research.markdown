@@ -4,9 +4,7 @@ layout: single
 permalink: /research/
 author_profile: true
 ---
-  
-  
-  <br>
+
 <span style="font-size:16pt;">**Working Papers** </span><br>
 <br>
 <span style="font-size:14pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>

@@ -4,7 +4,7 @@ layout: single
 permalink: /teaching/
 author_profile: true
 ---
-<br>
+
 **Columbia University**
 
 

@@ -15,7 +15,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.4em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -50,12 +50,13 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  font-size: 18pt;
   // z-index: 20;
 }
 
 .site-subtitle {
   display: block;
-  font-size: $type-size-8;
+  font-size: 10pt;
 }
 
 .masthead__menu {
@@ -64,6 +65,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  font-size: 15pt;
 
   .site-nav {
     margin-left: 0;

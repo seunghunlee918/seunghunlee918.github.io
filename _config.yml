@@ -102,13 +102,13 @@ author:
   links:
     - label: "Email: sl4436@columbia.edu"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:sl4436@columbia.edu"
+      url: "mailto:sl4436@columbia.edu"
     - label: "Twitter: @Seunghunlee0918"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/Seunghunlee0918"
+      url: "https://twitter.com/Seunghunlee0918"
     - label: "GitHub: seunghunlee918"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/seunghunlee918"
+      url: "https://github.com/seunghunlee918"
 
 # Site Footer
 footer:

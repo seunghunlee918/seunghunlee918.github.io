@@ -3,7 +3,7 @@ main:
    - title: "Home"
      url: "/"
    - title: "CV"
-     url: /cv/CV_SHL_20210416.pdf/
+     url: /cv/
    - title: "Research"
      url: /research/
    - title: "Teaching"

@@ -1,13 +1,10 @@
 ---
-title: "Home"
+title: "Welcome!"
 layout: single
 author_profile: true
 permalink: /
 ---
-
-## Welcome!    
-
-
+<br>
 
 <span style="font-size:14pt;">
 I am a 3rd year Ph.D. candidate in Economics at Columbia University</span>

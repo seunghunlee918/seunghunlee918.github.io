@@ -15,6 +15,7 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
+  
 
   footer {
     @include clearfix;
@@ -49,6 +50,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  
 }
 
 .page__footer-follow {

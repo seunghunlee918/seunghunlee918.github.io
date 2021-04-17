@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /
 ---
-<br>
+
 <span style="font-size:14pt;">
 I am a 3rd year Ph.D. candidate in Economics at Columbia University</span>
 

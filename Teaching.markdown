@@ -12,7 +12,7 @@ author_profile: true
 <span style="font-size:14pt;">**Introduction to Econometrics**  (*Undergraduate*)</span><br>
 <span style="font-size:14pt;">  TA for Tamrat Gashaw</span><br>
 <span style="font-size:14pt;">   *Wueller Teaching Award winner, Fall 2019*</span><br>
-<span style="font-size:14pt;"> Lecture notes and slides (To be uploaded in May 2021)</span>
+<span style="font-size:14pt;"> [Lecture notes and slides](https://github.com/seunghunlee918/ugrad_introtometrics) </span>
 
 
 

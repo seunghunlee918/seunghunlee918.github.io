@@ -8,9 +8,9 @@ author_profile: true
 **Columbia University**
 
 
-<span style="font-size:14pt;">Spring 2021, Fall 2019</span><br>
+<span style="font-size:14pt;">Fall 2021, Spring 2021, Fall 2019</span><br>
 <span style="font-size:14pt;">**Introduction to Econometrics**  (*Undergraduate*)</span><br>
-<span style="font-size:14pt;">  TA for Tamrat Gashaw</span><br>
+<span style="font-size:14pt;">  TA for Seyhan Erden (Fall 2021) and Tamrat Gashaw (Spring 2021, Fall 2019)</span><br>
 <span style="font-size:14pt;">   *Wueller Teaching Award winner, Fall 2019*</span><br>
 <span style="font-size:14pt;"> [Lecture notes and slides](https://github.com/seunghunlee918/ugrad_introtometrics) </span>
 

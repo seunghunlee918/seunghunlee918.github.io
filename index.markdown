@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <span style="font-size:14pt;">
-I am a 3rd year Ph.D. candidate in Economics at Columbia University</span>
+I am a 4th year Ph.D. candidate in Economics at Columbia University</span>
 
 <span style="font-size:14pt;">
 My primary fields of interest are Development, Public, and Labor Economics. I am also interested in Political Economy. </span>

@@ -26,7 +26,7 @@ author_profile: true
 <span style="font-size:12pt;"> **Organized Crime and the Effects of Leader Deaths at Local Governments: Evidence from the Mexican War on Drugs**</span><br>
 <br>
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>
-<span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent), *Submitted* </span><br>
+<span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent) </span><br>
 
 [//]: # "<span style="font-size:14pt;"> **Paper 3**</span><br>"
 [//]: # "<span style="font-size:12pt;"> Abstract</span><br>"

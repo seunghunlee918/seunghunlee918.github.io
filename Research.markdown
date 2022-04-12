@@ -23,7 +23,7 @@ author_profile: true
 
 <span style="font-size:16pt;">**Works in Progress**</span><br>
 <br>
-<span style="font-size:12pt;"> **Organized Crime and the Effects of Leader Deaths at Local Governments: Evidence from the Mexican War on Drugs**</span><br>
+<span style="font-size:12pt;"> **The Economic and Political Impacts of Assassinations of Municipality Presidents in Mexico**</span><br>
 <br>
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>
 <span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent) </span><br>

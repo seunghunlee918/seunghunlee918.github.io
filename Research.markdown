@@ -19,9 +19,11 @@ author_profile: true
 <br>
 <span style="font-size:14pt;"> **Remittance and the Tax Structures in Developing Countries**</span><br>
 <span style="font-size:11pt;"> *Draft available upon request* </span><br>
-<div style="line-height: 1em;">
-<span style="font-size:12pt;"> Despite the increasing flow of remittances in volume and proportion, particularly among the developing countries, their role in determining the state’s capacity to collect taxes has received little attention. This paper explores the link between remittances and various tax revenue categories using country-level data. Two-way panel regressions suggest that a 1 pp increase in inflow of remittances explains a 0.12 pp rise in consumption tax revenues. The same estimate derived from IV methods proxying for migrant network strength and openness of borders increases to 0.9 pp. Decomposing this result reveals that increase in household consumption expenditure explains all of the statistical association, not the efficient tax-collecting mechanism such as VAT. Subsample regressions by income category suggests that the association between remittances and consumption tax revenue is stronger in countries with lower income.</span>
-</div><br>
+
+<details>
+    <summary style  ="font-size:11pt;"> Abstract </summary>
+    <p style="font-size:11pt;"> Despite the increasing flow of remittances in volume and proportion, particularly among the developing countries, their role in determining the state’s capacity to collect taxes has received little attention. This paper explores the link between remittances and various tax revenue categories using country-level data. Two-way panel regressions suggest that a 1 pp increase in inflow of remittances explains a 0.12 pp rise in consumption tax revenues. The same estimate derived from IV methods proxying for migrant network strength and openness of borders increases to 0.9 pp. Decomposing this result reveals that increase in household consumption expenditure explains all of the statistical association, not the efficient tax-collecting mechanism such as VAT. Subsample regressions by income category suggests that the association between remittances and consumption tax revenue is stronger in countries with lower income.</p>
+</details>
 ---
 
 <span style="font-size:16pt;">**Works in Progress**</span><br>

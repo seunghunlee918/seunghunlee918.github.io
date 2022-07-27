@@ -26,7 +26,7 @@ author_profile: true
 </details>
 ---
 
-<span style="font-size:16pt;">**Works in Progress**</span><br>
+**Works in Progress**
 
 <span style="font-size:12pt;"> **The Economic and Political Impacts of Assassinations of Municipality Presidents in Mexico**</span><br>
 <br>

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <span style="font-size:16pt;">**Working Papers** </span><br>
-<br>
+
 <span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
 <span style="font-size:11pt;"> (with Elizabeth Kayoon Hur), *Submitted* </span><br>
 <span style="font-size:11pt;"> [Paper](https://seunghunlee918.github.io/research/Tsunami_Indonesia_dsp_0416.pdf)  [Online appendix](https://seunghunlee918.github.io/research/Tsunami_Indonesia_dsp_onlineappendix.pdf) (Replication package in progress)</span>
@@ -27,7 +27,7 @@ author_profile: true
 ---
 
 <span style="font-size:16pt;">**Works in Progress**</span><br>
-<br>
+
 <span style="font-size:12pt;"> **The Economic and Political Impacts of Assassinations of Municipality Presidents in Mexico**</span><br>
 <br>
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>

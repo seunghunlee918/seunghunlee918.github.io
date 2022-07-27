@@ -10,15 +10,14 @@ author_profile: true
 
   <span style="font-size:12pt;">**Introduction to Econometrics 2** (*Ph.D. Core*)</span><br>
   <span style="font-size:11pt;">TA for Jushan Bai (Spring 2020), Serena Ng (Spring 2022) and Bernard Salanié (Spring 2022, 2020)</span><br>
-  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2022](https://github.com/seunghunlee918/phd_econometrics_2022s) [Spring 2020](https://github.com/seunghunlee918/phd_econometrics)
-    </span><br>
+  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2022](https://github.com/seunghunlee918/phd_econometrics_2022s) [Spring 2020](https://github.com/seunghunlee918/phd_econometrics) </span><br>
 
 
 <span style="font-size:12pt;">**Introduction to Econometrics**  (*Undergraduate*)</span><br>
 <span style="font-size:11pt;">  TA for Seyhan Erden (Fall 2021) and Tamrat Gashaw (Spring 2021, Fall 2019)</span><br>
 <span style="font-size:11pt;">   *Wueller Teaching Award winner, Fall 2019*</span><br>
 <span style="font-size:11pt;"> Links to notes and slides: [Fall 2021](https://github.com/seunghunlee918/ugrad_introtometrics_2021f) [Fall 2019](https://github.com/seunghunlee918/ugrad_introtometrics) </span><br>
-<span style="font-size:11pt;">  </span><br>
+
 
 <span style="font-size:12pt;">**Economic Policy Analysis** (*Masters*)</span><br>
 <span style="font-size:11pt;">  TA for Lena Edlund and Brandan O'Flaherty (Fall 2020)</span><br>

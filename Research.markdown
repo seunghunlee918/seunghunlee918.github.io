@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<span style="font-size:16pt;">**Working Papers** </span><br>
+**Working Papers**
 
 <span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
 <span style="font-size:11pt;"> (with Elizabeth Kayoon Hur), *Submitted* </span><br>

@@ -9,10 +9,10 @@ author_profile: true
 
 
   <span style="font-size:14pt;">Spring 2022, Spring 2020</span><br>
-  <span style="font-size:14pt;">**Introduction to Econometrics 2** (*Ph.D. Core*)</span><br>
-  <span style="font-size:14pt;">TA for Jushan Bai (Spring 2020), Serena Ng (Spring 2022) and Bernard Salanié (Spring 2022, 2020)</span><br>
-  <span style="font-size:14pt;">[Lecture notes and slides from Spring 2020](https://github.com/seunghunlee918/phd_econometrics)</span><br>
-    <span style="font-size:14pt;">[Lecture notes and slides from Spring 2022](https://github.com/seunghunlee918/phd_econometrics_2022s)</span><br>
+  <span style="font-size:12pt;">**Introduction to Econometrics 2** (*Ph.D. Core*)</span><br>
+  <span style="font-size:12pt;">TA for Jushan Bai (Spring 2020), Serena Ng (Spring 2022) and Bernard Salanié (Spring 2022, 2020)</span><br>
+  <span style="font-size:11pt;">[Lecture notes and slides from Spring 2020](https://github.com/seunghunlee918/phd_econometrics)</span><br>
+    <span style="font-size:11pt;">[Lecture notes and slides from Spring 2022](https://github.com/seunghunlee918/phd_econometrics_2022s)</span><br>
 
 <span style="font-size:14pt;">Fall 2021, Spring 2021, Fall 2019</span><br>
 <span style="font-size:14pt;">**Introduction to Econometrics**  (*Undergraduate*)</span><br>

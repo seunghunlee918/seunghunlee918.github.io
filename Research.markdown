@@ -9,11 +9,11 @@ author_profile: true
 
 <span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
 <span style="font-size:11pt;"> (with Elizabeth Kayoon Hur), *Submitted* </span><br>
-<span style="font-size:11pt;">  [Paper](https://seunghunlee918.github.io/research/Tsunami_Indonesia_dsp_0416.pdf)  [Online appendix](https://seunghunlee918.github.io/research/Tsunami_Indonesia_dsp_onlineappendix.pdf) (Replication package in progress)</span>
-<details>
-    <summary style  ="font-size:11pt;"> Abstract (Click to view/close) </summary>
+<span style="font-size:11pt;">  <a href="#/" onclick=visib('abs_indonesia')">Abstract</a> [Paper](https://seunghunlee918.github.io/research/Tsunami_Indonesia_dsp_0416.pdf)  [Online appendix](https://seunghunlee918.github.io/research/Tsunami_Indonesia_dsp_onlineappendix.pdf) (Replication package in progress)</span>
+
+<div id="abs_indonesia" style="display: none;">
     <p style="font-size:11pt;"> This paper evaluates the effect of the in utero exposure to the 2004 Indian Ocean Tsunami on short-term childbirth outcomes in Indonesia. Exploiting variation in damage intensities across locations and the timing of exposure, we find that the probability of successful pregnancies drops by 5.9 pp, while miscarriages increase by 5.5 pp. However, this does not vary by intensity of exposure across locations. Our results suggest the importance of considering fetal loss in developing countries and highlight that facilitating household investment in health through various policies may mitigate negative birth effects in the aftermath of natural disasters.</p>    
-</details>
+</div>
 
 
 <br>
@@ -33,16 +33,16 @@ author_profile: true
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>
 <span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent) </span><br>
 
-[//]: # "<span style="font-size:14pt;"> **Paper 3**</span><br>"
-[//]: # "<span style="font-size:12pt;"> Abstract</span><br>"
 
 
-
-
-
-
-
-
-
-[//]: # "<span style="font-size:14pt;"> **Paper 3**</span><br>  for future works!" 
-[//]: # "<span style="font-size:12pt;"> Abstract</span><br>"
+[//]: This java script is the button to show abstract (Credit to Josh Merfeld)
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>

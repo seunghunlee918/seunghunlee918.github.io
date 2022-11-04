@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Seung-hun Lee"
   avatar           : "/images/SHL_2022.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate in Economics, Columbia University"
+  bio              : "Ph.D. candidate in Economics, Columbia University"
   email            :
   links:
     - label: "Email: sl4436@columbia.edu"

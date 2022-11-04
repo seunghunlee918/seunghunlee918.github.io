@@ -14,9 +14,9 @@ author_profile: true
 
 
 <span style="font-size:12pt;">**Introduction to Econometrics**  (*Undergraduate*)</span><br>
-<span style="font-size:11pt;">  TA for Seyhan Erden (Fall 2021) and Tamrat Gashaw (Spring 2021, Fall 2019)</span><br>
+<span style="font-size:11pt;">  TA for Seyhan Erden (Fall 2021), Tamrat Gashaw (Spring 2021, Fall 2019), and Simon Lee (Fall 2022)</span><br>
 <span style="font-size:11pt;">   *Wueller Teaching Award winner, Fall 2019*</span><br>
-<span style="font-size:11pt;"> Links to notes and slides: [Fall 2021](https://github.com/seunghunlee918/ugrad_introtometrics_2021f) | [Fall 2019](https://github.com/seunghunlee918/ugrad_introtometrics) </span><br>
+<span style="font-size:11pt;"> Links to notes and slides: [Fall 2021](https://github.com/seunghunlee918/ugrad_introtometrics_2021f) | [Fall 2019](https://github.com/seunghunlee918/ugrad_introtometrics) | Fall 2022 (*To be updated after the semester*) </span><br>
 
 
 <span style="font-size:12pt;">**Economic Policy Analysis** (*Masters*)</span><br>

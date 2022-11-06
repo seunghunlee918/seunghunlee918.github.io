@@ -7,7 +7,7 @@
 $background-color: #ffffff;
 $primary-color: #375978;
 $footer-background-color: #accce6;
-
+$footer-text-color: #ffffff;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

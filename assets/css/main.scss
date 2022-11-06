@@ -6,8 +6,8 @@
 
 $background-color: #ffffff;
 $primary-color: #375978;
-$footer-background-color: #003373;
-$footer-font-color: #ffffff;
+$footer-background-color: #accce6;
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Seung-hun Lee"
-  avatar           : "/images/DCS_1015_adjusted.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/DCS_1017_adjusted.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. candidate in Economics, Columbia University"
   email            :
   links:

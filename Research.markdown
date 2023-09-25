@@ -5,11 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 **Job Market Paper**
+
 <span style="font-size:12pt;"> **Organized Crime, Presence of Local Politicians, and the Dynamics of State Capacity**</span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  (Draft coming soon)</span>
 
 <div id="abs_mexmayors" style="display: none;">
-    <p style="font-size:11pt;"> </p> This paper investigates the effects of losing local leaders to assassinations on the capacity of local governments in municipalities with organized criminal group activities. Exploiting the randomness in the outcomes of assassination attempts against mayors in Mexico in 2002-21, I find that the fiscal and personnel capacities of the municipality governments that have lost their mayors deteriorate. They are unable to retain their sources of income, evidenced by a 29% decrease in tax collection. Local expenditures are diverted to sectors potentially serving criminal interests such as construction, with its share in the budget increasing by 6.3 percentage points. Furthermore, there are losses of key personnel in local governments, with hypothetical cost of retaining them estimated as 13% increase in wages. These effects are not driven by non-political violence, extent of economic activities, and changes in population. These results speak to the importance of a sustained presence of leadership in determining the performance of the local public institutions and economic development.     
+    <p style="font-size:11pt;">  This paper investigates the effects of losing local leaders to assassinations on the capacity of local governments in municipalities with organized criminal group activities. Exploiting the randomness in the outcomes of assassination attempts against mayors in Mexico in 2002-21, I find that the fiscal and personnel capacities of the municipality governments that have lost their mayors deteriorate. They are unable to retain their sources of income, evidenced by a 29% decrease in tax collection. Local expenditures are diverted to sectors potentially serving criminal interests such as construction, with its share in the budget increasing by 6.3 percentage points. Furthermore, there are losses of key personnel in local governments, with hypothetical cost of retaining them estimated as 13% increase in wages. These effects are not driven by non-political violence, extent of economic activities, and changes in population. These results speak to the importance of a sustained presence of leadership in determining the performance of the local public institutions and economic development.   </p>  
 </div>
 ---
 **Working Papers**

@@ -3,6 +3,7 @@ title: "Welcome!"
 layout: single
 author_profile: true
 permalink: /
+classes: wide
 ---
 
 <p><span style="font-size:13pt;">

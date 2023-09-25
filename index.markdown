@@ -13,7 +13,7 @@ My primary fields of interest are <b>development economics</b>, <b>political eco
 , and <b>public economics</b>. I am also interested in <i>labor economics</i>. </span></p>
 
 <p><span style="font-size:14pt;">
-My research topics revolve around the formation of state capacity and the accumulation of human capital under adverse shocks. In my job market paper, I investigate how political violence targeting local politicians affect the fiscal and personnel capacity of local governments. I also have ongoing projects that study how educational attainment is impacted by religious violence in Nigeria and how birth outcomes are influenced by the 2004 Indian Ocnean Tsunami in Indonesia.
+My research topics revolve around the formation of state capacity and the accumulation of human capital under adverse shocks. In my job market paper, I investigate how political violence targeting local politicians affects the fiscal and personnel capacity of local governments. I also have ongoing projects that study how educational attainment is impacted by religious violence in Nigeria and how birth outcomes are influenced by the 2004 Indian Ocnean Tsunami in Indonesia.
     </span></p>
 
 <p><span style="font-size:14pt;"> 

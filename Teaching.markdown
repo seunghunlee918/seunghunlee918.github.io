@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+
 **Columbia University**
 
 

@@ -4,6 +4,9 @@ layout: single
 permalink: /research/
 author_profile: true
 ---
+
+
+
 **Job Market Paper**
 
 <span style="font-size:12pt;"> **Organized Crime, Presence of Local Politicians, and the Dynamics of State Capacity**</span><br>

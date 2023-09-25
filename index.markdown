@@ -6,13 +6,16 @@ permalink: /
 ---
 
 <p><span style="font-size:14pt;">
-I am a 5th year Ph.D. candidate in Economics at Columbia University</span></p>
+I am a 6th year Ph.D. candidate in Economics at Columbia University. **I am on the job market during the 2023-2024 academic year.** </span></p>
 
 <p><span style="font-size:14pt;">
-My primary fields of interest are development economics, political economy, and public economics. I am also interested in labor economics. </span></p>
+My primary fields of interest are **development economics**, **political economy
+**, and **public economics**. I am also interested in *labor economics*. </span></p>
 
 <p><span style="font-size:14pt;">
-Broadly speaking, my research topics revolve around the formation of state capacity and the accumulation of human capital. One of my ongoing projects focuses on how political violence affects the capacity of the local governments to finance and execute their operations. I also have other ongoing projects that study how adverse shocks such as violence and natural disasters affect human capital accumulation.
+My research topics revolve around the formation of state capacity and the accumulation of human capital under adverse shocks. In my job market paper, I investigate how political violence targeting local politicians affect the fiscal and personnel capacity of local governments. I also have ongoing projects that study how educational attainment is impacted by religious violence in Nigeria and how birth outcomes are influenced by the 2004 Indian Ocnean Tsunami in Indonesia.
     </span></p>
 
-
+<p><span style="font-size:14pt;"> 
+For more information, please see my [CV](https://seunghunlee918.github.io/cv/CV_shl_202300925.pdf). You can also contact me at [sl4436@columbia.edu](mailto:sl4436@columbia.edu).
+</span></p>

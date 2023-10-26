@@ -11,7 +11,7 @@ classes: wide
 **Job Market Paper**
 
 <span style="font-size:12pt;"> **Organized Crime, Local Politicians, and State Capacity**</span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  (Draft coming soon)</span>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2023/10/25)](https://seunghunlee918.github.io/research/Mexico_Mayors.pdf)</span>
 
 <div id="abs_mexmayors" style="display: none;">
     <p style="font-size:11pt;">  This paper investigates the effects of successful assassinations on the capacity of local governments. By leveraging the randomness in the outcomes of assassination attempts against mayors in Mexico in 2002-21, I find that the fiscal and personnel capacities of the municipal governments that lose their mayors deteriorate. Municipal tax collection decreases by 29%. The share of public expenditure on local construction projects increases by 6.3 percentage points at the expense of other public goods and services. Furthermore, the cost of retaining workers in their 30s and 40s increases by 13% of their wages. Organized criminal groups take advantage of the vacuum of power by increasing their presence in municipalities with successful assassinations. The influence of non-political violence, levels of economic activities, or changes in population on these outcomes are ruled out. The results speak to the significance of leaders in maintaining fiscal capacity and retaining capable personnel in the workforce even in a violent environment.

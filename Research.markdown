@@ -8,7 +8,8 @@ classes: wide
 
 
 
-**Job Market Paper**
+
+**Working Papers**
 
 <span style="font-size:12pt;"> **Organized Crime, Local Politicians, and State Capacity**</span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2023/12/15)](https://seunghunlee918.github.io/research/Mexico_Mayors.pdf)| [Nontechnical summary: Development Impact blog](https://blogs.worldbank.org/impactevaluations/role-local-politicians-establishing-capable-local-governments-violent)</span> 
@@ -17,8 +18,6 @@ classes: wide
     <p style="font-size:11pt;">  This paper investigates the effects of losing mayors to successful assassinations on the capacity of local governments. By leveraging the randomness in the outcomes of assassination attempts against mayors in Mexico in 2002-21, I find that the loss of mayors negatively affects the fiscal and personnel capacities of the local governments. Municipal tax collection decreases by 29%. The share of expenditure on primary services falls by 3 percentage points and is crowded out toward investment in construction. Municipal workers at productive stages in their careers leave the position. The back-of-the-envelope calculation shows that wages should increase by 13% to retain them after assassinations. Organized criminal groups take advantage of the loss of mayors by increasing their presence in municipalities with successful assassinations. The results are not explained by non-political violence, levels of economic activities, or population changes. The results speak to the significance of leaders in maintaining fiscal capacity and retaining capable personnel in the workforce even in a violent environment.
   </p>  
 </div>
----
-**Working Papers**
 
 <span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
 <span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
@@ -43,7 +42,11 @@ classes: wide
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>
 <span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent) </span><br>
 
+<span style="font-size:12pt;"> **Conflicts-Induced Erosion: Evidence on Local State Capacity and Revenue Mobilization in Burkina Faso**</span><br>
+<span style="font-size:11pt;"> (with Rose Camille Vincent) </span><br>
 
+<span style="font-size:12pt;"> ** Migrants, gangs, and taxes: Evidence from Mexico **</span><br>
+<span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia) </span><br>
 
 [//]: This java script is the button to show abstract (Credit to Josh Merfeld)
 <script>

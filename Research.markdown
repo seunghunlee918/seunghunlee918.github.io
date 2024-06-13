@@ -21,7 +21,7 @@ classes: wide
 
 <span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
 <span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper](https://seunghunlee918.github.io/research/Dem_Tsunami_Indonesia_final.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/appendix_shorter.pdf) | (Replication package in progress)</span>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper (Updated: 2022/08/22)](https://seunghunlee918.github.io/research/Dem_Tsunami_Indonesia_final.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/appendix_shorter.pdf) | (Replication package in progress)</span>
 
 <div id="abs_indonesia" style="display: none;">
     <p style="font-size:11pt;"> This paper evaluates the effect of the in utero exposure to the 2004 Indian Ocean Tsunami on short-term childbirth outcomes in Indonesia. Exploiting variation in damage intensities across locations and the timing of exposure, we find that the probability of successful pregnancies drops by 5.9 pp, while miscarriages increase by 5.5 pp. However, this does not vary by intensity of exposure across locations. Our results suggest the importance of considering fetal loss in developing countries and highlight that facilitating household investment in health through various policies may mitigate negative birth effects in the aftermath of natural disasters.</p>    

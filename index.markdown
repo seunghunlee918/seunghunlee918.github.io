@@ -18,5 +18,5 @@ My research topics revolve around the formation of state capacity and the accumu
 
 
 <p><span style="font-size:13pt;"> 
-For more information, please see my <a href="https://seunghunlee918.github.io/cv/CV_shl.pdf">CV</a>. You can also contact me at <a href="mailto:sl4436@columbia.edu">sl4436@columbia.edu</a>.
+For more information, please see my <a href="https://seunghunlee918.github.io/cv/CV_shl.pdf">CV</a>. You can also contact me at <a href="mailto:sl4436@columbia.edu">sl4436@columbia.edu</a> or <a href="mailto:seunghunlee0918@gmail.com">seunghunlee0918@gmail.com</a>.
 </span></p>

@@ -28,7 +28,7 @@ classes: wide
 </div>
 
 
-<br>
+
 <span style="font-size:12pt;"> **Remittance and the Tax Structures in Developing Countries**</span><br>
 <span style="font-size:11pt;">  <a href="#/" onclick="visib('abs_remittance')">Abstract</a> | [Paper (Updated: 2024/03/15)](https://seunghunlee918.github.io/research/Remittances.pdf) </span>
 

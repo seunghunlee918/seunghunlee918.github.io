@@ -43,7 +43,7 @@ classes: wide
 <span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent) </span><br>
 
 <span style="font-size:12pt;"> **Conflicts-Induced Erosion: Evidence on Local State Capacity and Revenue Mobilization in Burkina Faso**</span><br>
-<span style="font-size:11pt;"> (with Rose Camille Vincent) </span><br>
+<span style="font-size:11pt;"> (with Rose Camille Vincent, Ablam Estel Apeti) </span><br>
 
 <span style="font-size:12pt;"> **Migrants, gangs, and taxes: Evidence from Mexico**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia) </span><br>

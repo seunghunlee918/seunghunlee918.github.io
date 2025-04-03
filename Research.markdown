@@ -45,7 +45,7 @@ classes: wide
 <span style="font-size:12pt;"> **Conflicts-Induced Erosion: Evidence on Local State Capacity and Revenue Mobilization in Burkina Faso**</span><br>
 <span style="font-size:11pt;"> (with Rose Camille Vincent, Ablam Estel Apeti) </span><br>
 
-<span style="font-size:12pt;"> **The Fiscal Social Contract under Criminal Governance: Evidence from Mexico**</span><br>
+<span style="font-size:12pt;"> **The Fiscal Social Contract under Criminal Governance: Evidence from Mexican Municipalities**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia) </span><br>
 
 [//]: This java script is the button to show abstract (Credit to Josh Merfeld)

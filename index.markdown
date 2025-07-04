@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <p><span style="font-size:13pt;">
-I have recently graduated with a Ph.D. in Economics from Columbia University. From August 2024 to July 2025, I will be a HKUST-SNU Postdoctoral Fellow. Starting August 2025, I will be an Assistant Professor at Taipei School of Economics at National Tsing Hua University.  </span></p>
+  I have received my Ph.D. in Economics from Columbia University on May 2024. Starting from August 2025, I am an Assistant Professor at Taipei School of Economics at National Tsing Hua University. I am also a Bong and Sul Visiting Research Fellow at the Yonsei Institute of Population and Human Capital.  </span></p>
  
 <p><span style="font-size:13pt;">
 My primary fields of interest are <b>development economics</b>, <b>political economy</b>, and <b>public economics</b>. I am also interested in <i>labor economics</i>. </span></p>

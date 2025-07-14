@@ -99,10 +99,7 @@ author:
   bio              : "Postdoctoral Fellow, HKUST-SNU"
   email            :
   links:
-    - label: "seunghunlee@ust.hk"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seunghunlee@ust.hk"
-    - label: "seunghunlee0918@gmail.com"
+    - label: "seunghunlee0918[at]gmail[dot]com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:seunghunlee0918@gmail.com"
     - label: "@Seunghunlee0918"

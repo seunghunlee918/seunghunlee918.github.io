@@ -12,10 +12,31 @@ classes: wide
 **Working Papers**
 
 <span style="font-size:12pt;"> **Organized Crime, Local Politicians, and State Capacity**</span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2025/04/11)](https://seunghunlee918.github.io/research/Mexico_Mayors.pdf)| [Nontechnical summary: Development Impact blog](https://blogs.worldbank.org/impactevaluations/role-local-politicians-establishing-capable-local-governments-violent)</span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2025/07/14)](https://seunghunlee918.github.io/research/Mexico_Mayors.pdf)| [Nontechnical summary: Development Impact blog](https://blogs.worldbank.org/impactevaluations/role-local-politicians-establishing-capable-local-governments-violent)</span> 
 
 <div id="abs_mexmayors" style="display: none;">
     <p style="font-size:11pt;">  This paper investigates the impact of losing mayors to successful assassinations on local government capacity by leveraging the randomness in the outcome of assassination attempts against Mexican mayors. Tax collection falls by 27%, and primary service expenditures shift to construction investments in municipalities with successful assassinations compared to failed attempts. There is suggestive evidence that changes to the personnel capacity of local governments influence these outcomes. Productive municipal workers leave, and retaining them would require an 11% wage increase. In addition, more personnel are assigned to public security duties over the provision of public service. Non-political violence, economic activities, population changes, and the temporary rise in organized crime do not fully explain these outcomes. The results highlight how the void in leadership in violent environments stifles local state capacity.
+  </p>  
+</div>
+
+
+<span style="font-size:12pt;"> **Conflicts' Long Shadow: The Decline of Local State Capacity in Burkina Faso**</span><br>
+<span style="font-size:11pt;"> (with Ablam Estel Apeti, and Rose Camille Vincent) </span><br>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
+
+<div id="abs_mexmayors" style="display: none;"> 
+    <p style="font-size:11pt;">  Conflicts in fragile states disrupt governance, resource mobilization, and service delivery, yet their micro-level impact on local state capacity is under-explored. This paper examines how violent conflicts affect the capacity of local governments to raise revenue and allocate resources for public services, using Burkina Faso as a case study due to its recent political instability and escalating conflicts. We construct a commune-by-year dataset covering all 351 communes over 15 years, combining data on public finance, conflict, and economic activities. A key innovation is the inclusion of planned revenues and expenditures, allowing us to assess how conflicts alter local fiscal expectations and performance. Using event studies and recentered instruments, we find that conflict-affected communes miss revenue and expenditure targets by 6 and 5 percentage points, respectively. This is driven by drops in locally generated revenues and reduced spending on operations and staff. Investment targets also fall short as expected central government grants fail to arrive, deepening fiscal deficits. The weakened local fiscal capacity lasts long after conflicts subside, highlighting challenges in post-conflict recovery
+  </p>  
+</div>
+
+
+
+<span style="font-size:12pt;"> **The Impacts of Negative Income Tax on Labor Market and Health Outcomes: Evidence from a Large Scale Field Experiment**</span><br>
+<span style="font-size:11pt;"> (with Hyuncheol Bryant Kim, Minki Kim, Jungmin Lee, Sangyoon Park, and Hankyoung Sung) </span><br>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
+
+<div id="abs_mexmayors" style="display: none;"> 
+    <p style="font-size:11pt;">  This report presents experimental evidence on the short-run impacts of providing monthly income support to low-income households, focusing on their financial stability, employment, subjective well-being, and health outcomes. We examine a randomized experiment in South Korea, the Seoul Stepping Stone Income Project, where 1,584 out of 5,111 households received monthly payments based on their income and household size across two phases. Our findings, drawn from both administrative and survey data, consistently show that households receiving income support experienced increases in total income and expenditures. However, compared to the control group, recipients of income support display lower employment and labor income growth. Notably, income support led to improvements in mental health among low-income households.
   </p>  
 </div>
 
@@ -40,13 +61,12 @@ classes: wide
 **Works in Progress**
 
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>
-<span style="font-size:11pt;"> (with Kayode Taiwo, Rose Camille Vincent) </span><br>
+<span style="font-size:11pt;"> (with Kayode Taiwo, and Rose Camille Vincent) </span><br>
 
-<span style="font-size:12pt;"> **Conflicts-Induced Erosion: Evidence on Local State Capacity and Revenue Mobilization in Burkina Faso**</span><br>
-<span style="font-size:11pt;"> (with Rose Camille Vincent, Ablam Estel Apeti) </span><br>
+
 
 <span style="font-size:12pt;"> **The Fiscal Social Contract under Criminal Governance: Evidence from Mexican Municipalities**</span><br>
-<span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia) </span><br>
+<span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
 
 [//]: This java script is the button to show abstract (Credit to Josh Merfeld)
 <script>

@@ -7,14 +7,14 @@ classes: wide
 ---
 
 <p><span style="font-size:13pt;">
-  I have received my Ph.D. in Economics from Columbia University on May 2024. Starting from August 2025, I am an Assistant Professor at Taipei School of Economics at National Tsing Hua University. I am also a Bong and Sul Visiting Research Fellow at the Yonsei Institute of Population and Human Capital.  </span></p>
+  I am an Assistant Professor at Taipei School of Economics at National Tsing Hua University. I am also a Bong and Sul Visiting Research Fellow at the Yonsei Institute of Population and Human Capital.  </span></p>
  
 <p><span style="font-size:13pt;">
-My primary fields of interest are <b>development economics</b>, <b>political economy</b>, and <b>public economics</b>. I am also interested in <i>labor economics</i>. </span></p>
+My research lies at the intersection of <b>development economics</b>, <b>political economy</b>, and <b>public economics</b>, with additional interersts in <i>labor economics</i>. My current research revolves around three themes: the formation of state capacity and operation of public finance in developing countries, human capital accumulation under adverse shocks, and the economic and political integration of migrants. I have several ongoing projects that examine how conflict affects fiscal and personnel capacity, how external shocks such as natural disasters influence education and health outcomes, and how policy instruments can improve migrant access to public goods.  </span></p>
 
 <p><span style="font-size:13pt;">
-My research topics revolve around the formation of state capacity and the accumulation of human capital under adverse shocks. In my job market paper, I investigate how political violence targeting local politicians affects the fiscal and personnel capacity of local governments. I also have ongoing projects that study how educational attainment is impacted by religious violence in Nigeria and how birth outcomes are influenced by the 2004 Indian Ocean Tsunami in Indonesia.
-    </span></p>
+Prior to my current position, I was a postdoctoral fellow at HKUST-SNU (July 2024 - June 2025). I received my Ph.D. in Economics from Columbia University in May 2024. 
+</span></p>
 
 
 <p><span style="font-size:13pt;"> 

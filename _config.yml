@@ -99,6 +99,9 @@ author:
   bio              : "Assistant Professor<br>Taipei School of Economics<br>National Tsing Hua University"
   email            :
   links:
+    - label: "NTHU mail"
+      icon: "fas fa-fw fa-envelope-o"
+      url: "mailto:seunghunlee@mx.nthu.edu.tw"
     - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:seunghunlee0918@gmail.com"

@@ -18,5 +18,5 @@ Prior to my current position, I was a postdoctoral fellow at HKUST-SNU (July 202
 
 
 <p><span style="font-size:13pt;"> 
-For more information, please see my <a href="https://seunghunlee918.github.io/cv/CV_shl.pdf">CV</a>. You can also contact me at <a href="mailto:seunghunlee0918@gmail.com">seunghunlee0918[at]gmail[dot]com</a>.
+For more information, please see my <a href="https://seunghunlee918.github.io/cv/CV_shl.pdf">CV</a>. You can also contact me at <a href="mailto:seunghunlee@mx.nthu.edu.tw">seunghunlee[at]mx[dot]nthu[dot]edu[dot]tw</a> or  <a href="mailto:seunghunlee0918@gmail.com">seunghunlee0918[at]gmail[dot]com</a>.
 </span></p>

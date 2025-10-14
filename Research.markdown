@@ -65,8 +65,14 @@ classes: wide
 
 
 
-<span style="font-size:12pt;"> **The Fiscal Social Contract under Criminal Governance: Evidence from Mexican Municipalities**</span><br>
+<span style="font-size:12pt;"> **The Illusion of Criminal Order: Institutional Trust and Municipal Finances in Mexico**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
+
+<span style="font-size:12pt;"> **Exploring Demands, Preferences, and Public Service in Fragile States: Evidence from a Randomized Survey Experiment in Haiti**</span><br>
+<span style="font-size:11pt;"> (with Jung Mun Park and Rose Camille Vincent) </span><br>
+
+<span style="font-size:12pt;"> **Bureaucrat Training and Local Tax Compliance: Evidence from Administrative Data in Tanzania**</span><br>
+<span style="font-size:11pt;"> (with Rose Camille Vincent) </span><br>
 
 [//]: This java script is the button to show abstract (Credit to Josh Merfeld)
 <script>

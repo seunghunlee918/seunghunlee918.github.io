@@ -5,12 +5,16 @@ permalink: /teaching/
 author_profile: true
 classes: wide
 ---
+
+
 **Taipei School of Economics, NTHU**
+
+
   <span style="font-size:12pt;">**Conflict and Peace** (*Political Economy of Development, Ph.D. Core*)</span><br>
   <span style="font-size:11pt;"> Instructor; Fall 2025</span><br>
   <span style="font-size:11pt;"> Links to notes and slides: *Will be uploaded after the semester* </span><br>
 
-
+---
 **Columbia University**
 
 

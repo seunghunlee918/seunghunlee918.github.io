@@ -19,6 +19,15 @@ classes: wide
   </p>  
 </div>
 
+<span style="font-size:12pt;"> **The Illusion of Criminal Order: Institutional Trust and Municipal Finances in Mexico**</span><br>
+<span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2025/10/27, UNU-WIDER Working paper)](https://seunghunlee918.github.io/research/MEX_criminal_order.pdf)| [Supplementary material](https://seunghunlee918.github.io/research/MEX_criminal_order_sm.pdf)</span> 
+
+<div id="abs_mexmayors" style="display: none;">
+    <p style="font-size:11pt;"> Do criminal groups which help maintain order strengthen the fiscal contract or weaken it? This paper examines how the presence of organized-crime groups shapes Mexican municipalities’ ability to collect revenue, deliver public goods, and earn citizens’ trust. Survey data show that residents living in neighbourhoods home to organized crime report lower levels of trust in local government, regardless of whether those groups provide ‘order’ or engage in extortion and violence. Municipality-level data further reveal that both local revenue collection and public spending decline over time in areas with such a presence, independent of whether they are dominated by a single group (whereby crime syndicates’ provision of order is more likely) or see multiple organizations vie for supremacy (leading to extortion and violence being more commonplace). Evidence from Mexico suggests that criminal governance fractures the social contract locally: it erodes institutional trust, weakens municipalities’ fiscal capacity, and harms publicgood provision.
+  </p>  
+</div>
+
 
 <span style="font-size:12pt;"> **Conflicts' Long Shadow: The Decline of Local State Capacity in Burkina Faso**</span><br>
 <span style="font-size:11pt;"> (with Ablam Estel Apeti, and Rose Camille Vincent) </span><br>
@@ -63,10 +72,6 @@ classes: wide
 <span style="font-size:12pt;"> **Religious Conflicts and Educational Outcomes in Nigeria**</span><br>
 <span style="font-size:11pt;"> (with Kayode Taiwo, and Rose Camille Vincent) </span><br>
 
-
-
-<span style="font-size:12pt;"> **The Illusion of Criminal Order: Institutional Trust and Municipal Finances in Mexico**</span><br>
-<span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
 
 <span style="font-size:12pt;"> **Exploring Demands, Preferences, and Public Service in Fragile States: Evidence from a Randomized Survey Experiment in Haiti**</span><br>
 <span style="font-size:11pt;"> (with Jung Mun Park and Rose Camille Vincent) </span><br>

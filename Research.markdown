@@ -21,9 +21,9 @@ classes: wide
 
 <span style="font-size:12pt;"> **The Illusion of Criminal Order: Institutional Trust and Municipal Finances in Mexico**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2025/10/27, UNU-WIDER Working paper)](https://seunghunlee918.github.io/research/MEX_criminal_order.pdf)| [Supplementary material](https://seunghunlee918.github.io/research/MEX_criminal_order_sm.pdf)</span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexcrimorder')">Abstract</a> |  [Paper (Updated: 2025/10/27, UNU-WIDER Working paper)](https://seunghunlee918.github.io/research/MEX_criminal_order.pdf)| [Supplementary material](https://seunghunlee918.github.io/research/MEX_criminal_order_sm.pdf)</span> 
 
-<div id="abs_mexmayors" style="display: none;">
+<div id="abs_mexcrimorder" style="display: none;">
     <p style="font-size:11pt;"> Do criminal groups which help maintain order strengthen the fiscal contract or weaken it? This paper examines how the presence of organized-crime groups shapes Mexican municipalities’ ability to collect revenue, deliver public goods, and earn citizens’ trust. Survey data show that residents living in neighbourhoods home to organized crime report lower levels of trust in local government, regardless of whether those groups provide ‘order’ or engage in extortion and violence. Municipality-level data further reveal that both local revenue collection and public spending decline over time in areas with such a presence, independent of whether they are dominated by a single group (whereby crime syndicates’ provision of order is more likely) or see multiple organizations vie for supremacy (leading to extortion and violence being more commonplace). Evidence from Mexico suggests that criminal governance fractures the social contract locally: it erodes institutional trust, weakens municipalities’ fiscal capacity, and harms publicgood provision.
   </p>  
 </div>
@@ -31,9 +31,9 @@ classes: wide
 
 <span style="font-size:12pt;"> **Conflicts' Long Shadow: The Decline of Local State Capacity in Burkina Faso**</span><br>
 <span style="font-size:11pt;"> (with Ablam Estel Apeti, and Rose Camille Vincent) </span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_bfaconflict')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
 
-<div id="abs_mexmayors" style="display: none;"> 
+<div id="abs_bfaconflict" style="display: none;"> 
     <p style="font-size:11pt;">  Conflicts in fragile states disrupt governance, resource mobilization, and service delivery, yet their micro-level impact on local state capacity is under-explored. This paper examines how violent conflicts affect the capacity of local governments to raise revenue and allocate resources for public services, using Burkina Faso as a case study due to its recent political instability and escalating conflicts. We construct a commune-by-year dataset covering all 351 communes over 15 years, combining data on public finance, conflict, and economic activities. A key innovation is the inclusion of planned revenues and expenditures, allowing us to assess how conflicts alter local fiscal expectations and performance. Using event studies and recentered instruments, we find that conflict-affected communes miss revenue and expenditure targets by 6 and 5 percentage points, respectively. This is driven by drops in locally generated revenues and reduced spending on operations and staff. Investment targets also fall short as expected central government grants fail to arrive, deepening fiscal deficits. The weakened local fiscal capacity lasts long after conflicts subside, highlighting challenges in post-conflict recovery
   </p>  
 </div>
@@ -42,9 +42,9 @@ classes: wide
 
 <span style="font-size:12pt;"> **The Impacts of Negative Income Tax on Labor Market and Health Outcomes: Evidence from a Large Scale Field Experiment**</span><br>
 <span style="font-size:11pt;"> (with Hyuncheol Bryant Kim, Minki Kim, Jungmin Lee, Sangyoon Park, and Hankyoung Sung) </span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_korssip')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
 
-<div id="abs_mexmayors" style="display: none;"> 
+<div id="abs_korssip" style="display: none;"> 
     <p style="font-size:11pt;">  This report presents experimental evidence on the short-run impacts of providing monthly income support to low-income households, focusing on their financial stability, employment, subjective well-being, and health outcomes. We examine a randomized experiment in South Korea, the Seoul Stepping Stone Income Project, where 1,584 out of 5,111 households received monthly payments based on their income and household size across two phases. Our findings, drawn from both administrative and survey data, consistently show that households receiving income support experienced increases in total income and expenditures. However, compared to the control group, recipients of income support display lower employment and labor income growth. Notably, income support led to improvements in mental health among low-income households.
   </p>  
 </div>

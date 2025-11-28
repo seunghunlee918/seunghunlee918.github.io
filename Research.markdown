@@ -12,6 +12,7 @@ classes: wide
 **Working Papers**
 
 <span style="font-size:12pt;"> **Organized Crime, Local Politicians, and State Capacity**</span><br>
+<span style="font-size:11pt;"> Revise and Resubmit at *Journal of Development Economics* </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2025/07/14)](https://seunghunlee918.github.io/research/Mexico_Mayors.pdf)| [Nontechnical summary: Development Impact blog](https://blogs.worldbank.org/impactevaluations/role-local-politicians-establishing-capable-local-governments-violent)</span> 
 
 <div id="abs_mexmayors" style="display: none;">

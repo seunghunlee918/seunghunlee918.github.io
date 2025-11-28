@@ -42,7 +42,7 @@ classes: wide
 
 
 <span style="font-size:12pt;"> **The Impacts of Negative Income Tax on Labor Market and Health Outcomes: Evidence from a Large Scale Field Experiment**</span><br>
-<span style="font-size:11pt;"> (with Hyuncheol Bryant Kim, Minki Kim, Jungmin Lee, Sangyoon Park, and Hankyoung Sung) </span><br>
+<span style="font-size:11pt;"> (with Hyuncheol Bryant Kim, Minki Kim, Jungmin Lee, and Sangyoon Park) </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_korssip')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
 
 <div id="abs_korssip" style="display: none;"> 

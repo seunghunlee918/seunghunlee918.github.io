@@ -22,6 +22,7 @@ classes: wide
 
 <span style="font-size:12pt;"> **The Illusion of Criminal Order: Institutional Trust and Municipal Finances in Mexico**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
+<span style="font-size:11pt;"> Revise and Resubmit at *Journal of Development Economics* </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexcrimorder')">Abstract</a> |  [Paper (Updated: 2025/10/27, UNU-WIDER Working paper)](https://seunghunlee918.github.io/research/MEX_criminal_order.pdf)| [Supplementary material](https://seunghunlee918.github.io/research/MEX_criminal_order_sm.pdf)</span> 
 
 <div id="abs_mexcrimorder" style="display: none;">

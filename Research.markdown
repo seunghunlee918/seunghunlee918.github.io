@@ -82,7 +82,7 @@ classes: wide
 <span style="font-size:12pt;"> **Exploring Demands, Preferences, and Public Service in Fragile States: Evidence from a Randomized Survey Experiment in Haiti**</span><br>
 <span style="font-size:11pt;"> (with Jung Mun Park and Rose Camille Vincent) </span><br>
 
-<span style="font-size:12pt;"> **Bureaucrat Training and Local Tax Compliance: Evidence from Administrative Data in Tanzania**</span><br>
+<span style="font-size:12pt;"> **Teaching the Tax Men: Experimental Evidence on Bureaucrat Training and Tax Compliance in Tanzania**</span><br>
 <span style="font-size:11pt;"> (with Rose Camille Vincent) </span><br>
 
 [//]: This java script is the button to show abstract (Credit to Josh Merfeld)

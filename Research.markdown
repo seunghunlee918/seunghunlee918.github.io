@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 classes: wide
 ---
+
 **Publications**
+
+
 <span style="font-size:12pt;"> **Organized Crime, Local Politicians, and State Capacity**</span><br>
 <span style="font-size:11pt;"> Forthcoming at *Journal of Development Economics* </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (Updated: 2026/04/20)](https://seunghunlee918.github.io/research/Mexico_Mayors.pdf)| [Nontechnical summary: Development Impact blog](https://blogs.worldbank.org/impactevaluations/role-local-politicians-establishing-capable-local-governments-violent)</span> 

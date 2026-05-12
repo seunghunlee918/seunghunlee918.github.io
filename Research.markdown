@@ -35,6 +35,18 @@ classes: wide
 </div>
 
 
+<span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
+<span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
+<span style="font-size:11pt;"> Revise and Resubmit at *Oxford Bulletin of Economics and Statistics* </span><br>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper (Updated: 2022/08/22)](https://seunghunlee918.github.io/research/Dem_Tsunami_Indonesia_final.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/appendix_shorter.pdf) | (Replication package in progress)</span>
+
+<div id="abs_indonesia" style="display: none;">
+    <p style="font-size:11pt;"> This paper evaluates the effect of the in utero exposure to the 2004 Indian Ocean Tsunami on short-term childbirth outcomes in Indonesia. Exploiting variation in damage intensities across locations and the timing of exposure, we find that the probability of successful pregnancies drops by 5.9 pp, while miscarriages increase by 5.5 pp. However, this does not vary by intensity of exposure across locations. Our results suggest the importance of considering fetal loss in developing countries and highlight that facilitating household investment in health through various policies may mitigate negative birth effects in the aftermath of natural disasters.</p>    
+</div>
+
+
+
+
 <span style="font-size:12pt;"> **Conflicts' Long Shadow: The Decline of Local State Capacity in Burkina Faso**</span><br>
 <span style="font-size:11pt;"> (with Ablam Estel Apeti, and Rose Camille Vincent) </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_bfaconflict')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
@@ -53,14 +65,6 @@ classes: wide
 <div id="abs_korssip" style="display: none;"> 
     <p style="font-size:11pt;">  This report presents experimental evidence on the short-run impacts of providing monthly income support to low-income households, focusing on their financial stability, employment, subjective well-being, and health outcomes. We examine a randomized experiment in South Korea, the Seoul Stepping Stone Income Project, where 1,584 out of 5,111 households received monthly payments based on their income and household size across two phases. Our findings, drawn from both administrative and survey data, consistently show that households receiving income support experienced increases in total income and expenditures. However, compared to the control group, recipients of income support display lower employment and labor income growth. Notably, income support led to improvements in mental health among low-income households.
   </p>  
-</div>
-
-<span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
-<span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper (Updated: 2022/08/22)](https://seunghunlee918.github.io/research/Dem_Tsunami_Indonesia_final.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/appendix_shorter.pdf) | (Replication package in progress)</span>
-
-<div id="abs_indonesia" style="display: none;">
-    <p style="font-size:11pt;"> This paper evaluates the effect of the in utero exposure to the 2004 Indian Ocean Tsunami on short-term childbirth outcomes in Indonesia. Exploiting variation in damage intensities across locations and the timing of exposure, we find that the probability of successful pregnancies drops by 5.9 pp, while miscarriages increase by 5.5 pp. However, this does not vary by intensity of exposure across locations. Our results suggest the importance of considering fetal loss in developing countries and highlight that facilitating household investment in health through various policies may mitigate negative birth effects in the aftermath of natural disasters.</p>    
 </div>
 
 

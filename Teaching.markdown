@@ -10,13 +10,15 @@ classes: wide
 **Taipei School of Economics, NTHU**
 
 
+  <span style="font-size:12pt;">**Conflict and Peace** (*Political Economy of Development, Ph.D. Core*)</span><br>
+  <span style="font-size:11pt;"> Instructor; Fall 2026, Fall 2025</span><br>
+  <span style="font-size:11pt;"> Links to notes and slides: [Fall 2025](https://github.com/seunghunlee918/cnp_f2025) </span><br>
+
  <span style="font-size:12pt;">**Public Economics and Development** (*M.A. and Ph.D course*)</span><br>
   <span style="font-size:11pt;"> Instructor; Spring 2026</span><br>
-  <span style="font-size:11pt;"> Links to notes and slides: *Will be uploaded after the semester* </span><br>
+  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2026](https://github.com/seunghunlee918/pubecon_s2026) </span><br>
 
-  <span style="font-size:12pt;">**Conflict and Peace** (*Political Economy of Development, Ph.D. Core*)</span><br>
-  <span style="font-size:11pt;"> Instructor; Fall 2025</span><br>
-  <span style="font-size:11pt;"> Links to notes and slides: *Will be uploaded after the semester* </span><br>
+  
 
 ---
 **Columbia University**

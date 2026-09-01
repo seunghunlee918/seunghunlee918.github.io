@@ -7,13 +7,16 @@ classes: wide
 ---
 
 <p><span style="font-size:13pt;">
-  I am an Assistant Professor at Taipei School of Economics at National Tsing Hua University. I am also a Bong and Sul Visiting Research Fellow at the Yonsei Institute of Population and Human Capital.  </span></p>
+  I am an Assistant Professor at Taipei School of Economics at National Tsing Hua University.  I received my Ph.D. in Economics from Columbia University in May 2024.    </span></p>
  
-<p><span style="font-size:13pt;">
-My research lies at the intersection of <b>development economics</b>, <b>political economy</b>, and <b>public economics</b>, with additional interest in <i>labor economics</i> and <i>economics of migration</i>. My current research revolves around three themes: the formation of state capacity and operation of public finance in developing countries, human capital accumulation under adverse shocks, and the economic and political integration of migrants. I have several ongoing projects that examine how conflicts affect fiscal and personnel capacity, how external shocks such as natural disasters influence education and health outcomes, and how policy instruments can improve access to public goods for migrants.  </span></p>
 
 <p><span style="font-size:13pt;">
-Prior to my current position, I was a postdoctoral fellow at HKUST (July 2024 - June 2025). I received my Ph.D. in Economics from Columbia University in May 2024. 
+My research lies at the intersection of <b>development economics</b>, <b>public economics</b>, and <b>political economy</b>, with additional interest in <i>labor economics</i> and the <i>economics of migration</i>. My work examines how public institutions build, deploy, and lose the capacity to mobilize resources and serve their citizens. Current projects study how violence and conflict erode local state capacity, how bureaucratic training and citizen trust can strengthen the state, how large-scale public policies shape labor markets and welfare, and how adverse shocks affect human capital accumulation in fragile settings. My projects span settings including Mexico, Burkina Faso, Tanzania, Haiti, and Korea, and are supported by grants from J-PAL and Taiwan's National Science and Technology Council.
+</span></p>
+
+
+<p><span style="font-size:13pt;">
+Prior to my current position, I was a postdoctoral fellow at HKUST (July 2024 - June 2025). I was also a Bong and Sul Visiting Research Fellow at the Yonsei Institute of Population and Human Capital (Aug 2025 - July 2026).
 </span></p>
 
 

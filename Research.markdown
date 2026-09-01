@@ -90,6 +90,9 @@ classes: wide
 <span style="font-size:11pt;"> (with Rose Camille Vincent) </span><br>
 <span style="font-size:11pt;"> [Project Description (J-PAL Governance Initiative Website)](https://www.povertyactionlab.org/initiative-project/teaching-tax-man-experimental-evidence-bureaucrat-training-and-tax-compliance)| </span> 
 
+<span style="font-size:12pt;"> **Impact of Inflow of Foreign Workers on Korean Shipbuilding Industry: Evidence from Administrative Data**</span><br>
+<span style="font-size:11pt;"> (with Yunji Choi and Jongkwan Lee) </span><br>
+
 
 [//]: This java script is the button to show abstract (Credit to Josh Merfeld)
 <script>

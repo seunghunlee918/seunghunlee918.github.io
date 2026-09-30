@@ -22,7 +22,7 @@ classes: wide
 
 <span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
 <span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
-<span style="font-size:11pt;"> Forthcoming at *Oxford Bulletin of Economics and Statistics* </span><br>
+<span style="font-size:11pt;"> *Oxford Bulletin of Economics and Statistics*, Forthcoming </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper (Updated: 2026/07/29)](https://seunghunlee918.github.io/research/Tsunami_OBES_main.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/Tsunami_OBES_appendix.pdf)  </span>
 
 <div id="abs_indonesia" style="display: none;">

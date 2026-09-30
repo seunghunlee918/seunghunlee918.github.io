@@ -19,6 +19,19 @@ classes: wide
   </p>  
 </div>
 
+
+<span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
+<span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
+<span style="font-size:11pt;"> Forthcoming at *Oxford Bulletin of Economics and Statistics* </span><br>
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper (Updated: 2026/07/29)](https://seunghunlee918.github.io/research/Tsunami_OBES_main.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/Tsunami_OBES_appendix.pdf)  </span>
+
+<div id="abs_indonesia" style="display: none;">
+    <p style="font-size:11pt;"> This paper evaluates the effect of in utero exposure to the 2004 Indian Ocean Tsunami on birth outcomes in Indonesia. Exploiting variation in the timing of exposure, we find that the probability of a successful pregnancy drops by 5.4 percentage points (pp), while miscarriages increase by 5.0 pp for those exposed in the first trimester of pregnancy. Gestation length shortens by 0.28 months, and the likelihood of preterm birth rises by 5.4 pp. We find suggestive evidence that post-disaster health investments by households may have shielded later cohorts from harmful effects, while measures of maternal health and socioeconomic status have limited explanatory power. Our results suggest the importance of considering fetal loss as a first-order cost in natural disasters and highlight that facilitating household investment in health through various policies may mitigate negative birth effects in the aftermath. </p>    
+</div>
+
+
+
+
 ---
 
 **Working Papers**
@@ -33,17 +46,6 @@ classes: wide
     <p style="font-size:11pt;"> Do criminal groups which help maintain order strengthen the fiscal contract or weaken it? This paper examines how the presence of organized-crime groups shapes Mexican municipalities’ ability to collect revenue, deliver public goods, and earn citizens’ trust. Survey data show that residents living in neighbourhoods home to organized crime report lower levels of trust in local government, regardless of whether those groups provide ‘order’ or engage in extortion and violence. Municipality-level data further reveal that both local revenue collection and public spending decline over time in areas with such a presence, independent of whether they are dominated by a single group (whereby crime syndicates’ provision of order is more likely) or see multiple organizations vie for supremacy (leading to extortion and violence being more commonplace). Evidence from Mexico suggests that criminal governance fractures the social contract locally: it erodes institutional trust, weakens municipalities’ fiscal capacity, and harms publicgood provision.
   </p>  
 </div>
-
-
-<span style="font-size:12pt;"> **Childbirth Effects of the 2004 Indian Ocean Tsunami**</span><br>
-<span style="font-size:11pt;"> (with Elizabeth Kayoon Hur) </span><br>
-<span style="font-size:11pt;"> Revise and Resubmit at *Oxford Bulletin of Economics and Statistics* </span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_indonesia')">Abstract</a> |  [Paper (Updated: 2026/07/29)](https://seunghunlee918.github.io/research/Tsunami_OBES_main.pdf)  | [Online appendix](https://seunghunlee918.github.io/research/Tsunami_OBES_appendix.pdf)  </span>
-
-<div id="abs_indonesia" style="display: none;">
-    <p style="font-size:11pt;"> This paper evaluates the effect of in utero exposure to the 2004 Indian Ocean Tsunami on birth outcomes in Indonesia. Exploiting variation in the timing of exposure, we find that the probability of a successful pregnancy drops by 5.4 percentage points (pp), while miscarriages increase by 5.0 pp for those exposed in the first trimester of pregnancy. Gestation length shortens by 0.28 months, and the likelihood of preterm birth rises by 5.4 pp. We find suggestive evidence that post-disaster health investments by households may have shielded later cohorts from harmful effects, while measures of maternal health and socioeconomic status have limited explanatory power. Our results suggest the importance of considering fetal loss as a first-order cost in natural disasters and highlight that facilitating household investment in health through various policies may mitigate negative birth effects in the aftermath. </p>    
-</div>
-
 
 
 

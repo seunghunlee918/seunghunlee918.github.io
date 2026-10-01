@@ -11,7 +11,7 @@ classes: wide
 
 
 <span style="font-size:12pt;"> **Organized Crime, Local Politicians, and State Capacity**</span><br>
-<span style="font-size:11pt;"> *Journal of Development Economics*, (2026), 182, 103817 </span><br>
+<span style="font-size:11pt;"> *Journal of Development Economics*, 2026, 182, 103817 </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper (link to journal site)](https://www.sciencedirect.com/science/article/pii/S0304387826001008) | [Online appendix](https://seunghunlee918.github.io/research/Mexico_Mayors_appendix.pdf) | [Replication Package](https://doi.org/10.7910/DVN/HD2ZFS) | [Nontechnical summary: Development Impact blog](https://blogs.worldbank.org/impactevaluations/role-local-politicians-establishing-capable-local-governments-violent)</span> 
 
 <div id="abs_mexmayors" style="display: none;">

@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:seunghunlee@mx.nthu.edu.tw"
     - label: "Gmail"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square gmail-icon"
       url: "mailto:seunghunlee0918@gmail.com"
     - label: "Schedule a meeting"
       icon: "fas fa-fw fa-calendar-check"

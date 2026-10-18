@@ -19,3 +19,5 @@ $footer-background-color: #002f6c;
 .author__avatar img { border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; }
 
 @media (min-width: 64em) { .author__avatar img { max-width: 170px; } }
+
+.page__content li { font-size: 12pt; }

@@ -4,6 +4,7 @@ layout: single
 permalink: /teaching/
 author_profile: true
 classes: wide
+excerpt: "Courses taught, along with lecture materials."
 ---
 
 

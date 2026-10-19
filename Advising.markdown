@@ -4,6 +4,7 @@ layout: single
 permalink: /advising/
 author_profile: true
 classes: wide
+excerpt: "Guidelines for supervision and letters, and resources for graduate students."
 ---
 
 

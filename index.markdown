@@ -4,6 +4,7 @@ layout: single
 author_profile: true
 permalink: /
 classes: wide
+excerpt: "Assistant Professor, Taipei School of Economics, National Tsing Hua University"
 ---
 
 <p><span style="font-size:13pt;">

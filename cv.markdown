@@ -4,6 +4,7 @@ layout: single
 permalink: /cv/
 author_profile: true
 classes: wide
+excerpt: "Curriculum vitae"
 ---
   
   <span style="font-size:13pt;">[Download CV as pdf](https://seunghunlee918.github.io/cv/CV_shl.pdf)  </span>

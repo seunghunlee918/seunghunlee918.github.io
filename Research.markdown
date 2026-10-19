@@ -4,6 +4,7 @@ layout: single
 permalink: /research/
 author_profile: true
 classes: wide
+excerpt: "Publications, working papers, and works in-progress"
 ---
 
 

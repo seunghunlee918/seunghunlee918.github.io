@@ -39,9 +39,9 @@ classes: wide
 
 - Start by asking "Assuming that I had no data, financial, and ethical constraints, what is the one research question that I want to study?" This helps define who you are as a researcher and identify new projects (I thank Suresh Naidu for asking me this question at our first meeting).
 - Tatyana Deryugina has [published an e-book](https://deryugina.com){:target="_blank"} on how to train yourself as an economist at different stages of your career.  
-- Donald Davis’s [Questions you should be asking yourselves](https://drive.google.com/file/d/1yeSwp1KFNZFaKC86VBUgE6CbyyWsc11a/view){:target="_blank"} as you write a paper and prepare your presentation.
+- Donald Davis’s [questions you should be asking yourselves](https://drive.google.com/file/d/1yeSwp1KFNZFaKC86VBUgE6CbyyWsc11a/view){:target="_blank"} as you write a paper and prepare your presentation.
 - I am beginning to learn that even as an empiricist, starting from theoretical models helps. Here are the lecture slides from Patrick François on [connecting empirics to theory](https://www.theigc.org/sites/default/files/2026-09/BREAD%20Week%203%20lecture%20slides.pdf){:target="_blank"} from the BREAD-IGC virtual PhD-level course on political economy 2026.
-- In the social sciences, the paper does not have to be perfect. In fact, Joel Mokyr once said that ["perfect is the enemy of the very good"](https://www.youtube.com/shorts/qaA9lCzXQew){:target="_blank"}.
+- In the social sciences, the paper does not have to be perfect. In fact, Joel Mokyr once said that ["The perfect is the enemy of the very good"](https://www.youtube.com/shorts/qaA9lCzXQew){:target="_blank"}.
 
 <span style="font-size:13pt;">**Coding and Other Technical Skills**</span><br>
 

@@ -38,7 +38,7 @@ excerpt: "Publications, working papers, and works in-progress"
 **Working Papers**
 
 
-<span style="font-size:12pt;"> **The Illusion of Criminal Order: Institutional Trust and Municipal Finances in Mexico**</span><br>
+<span style="font-size:12pt;"> **The Illusion of Criminal Monopolies: Institutional Trust and Municipal Finances in Mexico**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
 <span style="font-size:11pt;"> Revise and Resubmit at *Studies in Comparative International Development* </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexcrimorder')">Abstract</a> | [Paper (update in progress)]|</span> 
@@ -61,7 +61,7 @@ excerpt: "Publications, working papers, and works in-progress"
 
 
 
-<span style="font-size:12pt;"> **The Impacts of Negative Income Tax on Labor Market and Health Outcomes: Evidence from a Large Scale Field Experiment**</span><br>
+<span style="font-size:12pt;"> **The Impacts of Negative Income Tax on Labor Supply and Household Expenditure: Evidence from a Large Scale Field Experiment**</span><br>
 <span style="font-size:11pt;"> (with Hyuncheol Bryant Kim, Minki Kim, Jungmin Lee, and Sangyoon Park) </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_korssip')">Abstract</a> |  [Paper (draft coming soon)]| </span> 
 

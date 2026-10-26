@@ -38,7 +38,7 @@ excerpt: "Publications, working papers, and works in-progress"
 **Working Papers**
 
 
-<span style="font-size:12pt;"> **The Illusion of Criminal Monopolies: Organized Crime and Municipal Finances in Mexico**</span><br>
+<span style="font-size:12pt;"> **The Illusion of Criminal Monopolies: Organised Crime and Municipal Finances in Mexico**</span><br>
 <span style="font-size:11pt;"> (with Ana Isabel Lopez Garcia and Juan Pablo Figueroa Mansur) </span><br>
 <span style="font-size:11pt;"> Revise and Resubmit at *Studies in Comparative International Development* </span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexcrimorder')">Abstract</a> | [Paper (update in progress)]|</span> 

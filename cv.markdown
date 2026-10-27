@@ -7,7 +7,7 @@ classes: wide
 excerpt: "Curriculum vitae"
 ---
   
-  <span style="font-size:13pt;">[Download CV as pdf](https://seunghunlee918.github.io/cv/CV_shl.pdf)  </span>
+  <span style="font-size:13pt;">[Download CV as pdf](https://seunghunlee918.github.io/cv/CV_shl.pdf){:target="_blank"}  </span>
 
 
 

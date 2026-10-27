@@ -13,11 +13,11 @@ excerpt: "Courses taught, along with lecture materials."
 
   <span style="font-size:12pt;">**Conflict and Peace** (*Political Economy of Development, Ph.D. Core*)</span><br>
   <span style="font-size:11pt;"> Instructor; Fall 2026, Fall 2025</span><br>
-  <span style="font-size:11pt;"> Links to notes and slides: [Fall 2025](https://github.com/seunghunlee918/cnp_f2025) </span><br>
+  <span style="font-size:11pt;"> Links to notes and slides: [Fall 2025](https://github.com/seunghunlee918/cnp_f2025){:target="_blank"} </span><br>
 
  <span style="font-size:12pt;">**Public Economics and Development** (*M.A. and Ph.D course*)</span><br>
   <span style="font-size:11pt;"> Instructor; Spring 2026</span><br>
-  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2026](https://github.com/seunghunlee918/pubecon_s2026) </span><br>
+  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2026](https://github.com/seunghunlee918/pubecon_s2026){:target="_blank"} </span><br>
 
   
 
@@ -27,13 +27,13 @@ excerpt: "Courses taught, along with lecture materials."
 
   <span style="font-size:12pt;">**Introduction to Econometrics 2** (*Ph.D. Core*)</span><br>
   <span style="font-size:11pt;"> Teaching Assistant; Spring 2022, Spring 2020</span><br>
-  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2022](https://github.com/seunghunlee918/phd_econometrics_2022s) | [Spring 2020](https://github.com/seunghunlee918/phd_econometrics) </span><br>
+  <span style="font-size:11pt;"> Links to notes and slides: [Spring 2022](https://github.com/seunghunlee918/phd_econometrics_2022s){:target="_blank"} | [Spring 2020](https://github.com/seunghunlee918/phd_econometrics) </span><br>
 
 
 <span style="font-size:12pt;">**Introduction to Econometrics**  (*Undergraduate*)</span><br>
 <span style="font-size:11pt;">  Teaching Assistant; Spring 2024, Fall 2022, Fall 2021, Spring 2021, Fall 2019</span><br>
 <span style="font-size:11pt;">   *Wueller Teaching Award winner, Fall 2019*</span><br>
-<span style="font-size:11pt;"> Links to notes and slides: [Fall 2022](https://github.com/seunghunlee918/ugrad_introtometrics_2022f) | [Fall 2021](https://github.com/seunghunlee918/ugrad_introtometrics_2021f) | [Fall 2019](https://github.com/seunghunlee918/ugrad_introtometrics) 
+<span style="font-size:11pt;"> Links to notes and slides: [Fall 2022](https://github.com/seunghunlee918/ugrad_introtometrics_2022f){:target="_blank"} | [Fall 2021](https://github.com/seunghunlee918/ugrad_introtometrics_2021f){:target="_blank"} | [Fall 2019](https://github.com/seunghunlee918/ugrad_introtometrics){:target="_blank"} 
 
 
 <span style="font-size:12pt;">**Economic Policy Analysis** (*Masters*)</span><br>

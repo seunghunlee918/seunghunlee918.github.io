@@ -15,6 +15,8 @@ excerpt: "Guidelines for supervision and letters, and resources for graduate stu
 <span style="font-size:12pt;">Whether you are asking me to be your advisor or to write a recommendation letter, I expect that you have taken at least one of my courses, worked with me on research (as a co-author or research assistant), or met with me on a few occasions to discuss your research interests.</span><br>
 
 
+<span style="font-size:12pt;">If you wish to reach out regarding admissions, please refer to the [department webpage](https://www.tse.nthu.edu.tw/post/447-fall-admissions-are-now-open){:target="_blank"}. Admissions decisions are made collectively by the department's admissions committee, so individual professors cannot offer admission or assess applications outside the formal process. Contacting individual faculty members does not affect the outcome of your application.</span><br>
+
 <span style="font-size:13pt;">**Advising**</span><br>
 <span style="font-size:12pt;">I supervise students working on topics related to development economics, public economics, and political economy, and I am open to other topics in other areas of applied economics, broadly defined. I am interested in empirical projects using quasi-experimental methods or field and survey experiments. </span><br>
 
